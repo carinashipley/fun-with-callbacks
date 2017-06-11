@@ -1,0 +1,33 @@
+{
+  "name": "fun-with-callbacks",
+  "version": "1.0.0",
+  "description": "Some fun and hopefully useful examples of callback functions for those who are just learning.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carinashipley/fun-with-callbacks.git"
+  },
+  "author": "Carina Shipley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carinashipley/fun-with-callbacks/issues"
+  },
+  "homepage": "https://github.com/carinashipley/fun-with-callbacks#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-syntax-class-properties": "^6.13.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.4.2",
+    "react-dev-utils": "^0.5.1",
+    "react-dom": "^15.4.2",
+    "react-scripts": "0.4.1"
+  }
+}
